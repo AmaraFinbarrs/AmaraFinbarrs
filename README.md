@@ -1,6 +1,6 @@
 ### Hi there, I'm Amara Finbarrs but you can call me Amara.
 
-##I'm a .NET software developer that specializes in C#
+## I'm a .NET software developer that specializes in C#
 - 👑 I'm currently on a journey to become a C#/.NET guru
 - ✍🏽 I'm currently building a note taking app with a major twist 🌪
 - 💻 2022 Goal: Land a Software Development role
