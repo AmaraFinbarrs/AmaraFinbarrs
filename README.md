@@ -6,4 +6,5 @@
 - 💻 2022 Goal: Land a Software Development role
 - ✨ Fun Fact: I love to write fictional stories that explore my creativity, faith, and life.
 
-### Connect with me
+### Tech Stack
+![HTML5-Logo](Images/Copy%20of%20html5-icon.png = 10x10)
