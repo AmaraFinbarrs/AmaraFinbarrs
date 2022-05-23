@@ -7,4 +7,4 @@
 - ✨ Fun Fact: I love to write fictional stories that explore my creativity, faith, and life.
 
 ### Tech Stack
-![HTML5-Logo](Images/Copy%20of%20html5-icon.png)
+![HTML5-Logo](Images/Copy%20of%20html5-icon.png) ![CSS3-logo](Images/css.png) ![JS-logo](Images/JavaScript-logo.png) ![C#-logo](Images/c%23%20logo.png)
