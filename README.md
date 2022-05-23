@@ -6,6 +6,6 @@
 - 💻 2022 Goal: Land a Software Development role
 - ✨ Fun Fact: I love to write fictional stories that explore my creativity, faith, and life.
 
-### Programming Languages I am Proficient in
+### My Stack so far...
 
-<img src="Images\html5-icon.png" width="50" height="50" /> <img src="Images\css.png" width="50" height="50" /> <img src="Images\JavaScript-logo.png" width="50" height="50" /> <img src="Images\c#-logo.png" width="50" height="50" /> <img src="Images\python-2.png" width="50" height="50" />
+<img src="Images\html5-icon.png" alt="HTML5 logo" width="50" height="50" /> <img src="Images\css.png" alt="CSS logo" width="50" height="50" /> <img src="Images\JavaScript-logo.png" alt="JS logo" width="50" height="50" /> <img src="Images\c#-logo.png" alt="C# logo" width="50" height="50" /> <img src="Images\python-2.png" alt="Python logo" width="50" height="50" />
