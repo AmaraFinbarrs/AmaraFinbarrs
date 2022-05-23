@@ -8,4 +8,6 @@
 
 ### My Stack so far...
 
-<img src="Images\html5-icon.png" alt="HTML5 logo" width="50" height="50" /> <img src="Images\css.png" alt="CSS logo" width="50" height="50" /> <img src="Images\JavaScript-logo.png" alt="JS logo" width="50" height="50" /> <img src="Images\c#-logo.png" alt="C# logo" width="50" height="50" /> <img src="Images\python-2.png" alt="Python logo" width="50" height="50" />
+<img src="Images\html5-icon.png" alt="HTML5 logo" width="50" height="50" /> <img src="Images\css.png" alt="CSS logo" width="50" height="50" /> <img src="Images\JavaScript-logo.png" alt="JS logo" width="50" height="50" /> <img src="Images/c# logo.png" alt="C# logo" width="50" height="50" /> <img src="Images\python-2.png" alt="Python logo" width="50" height="50" />
+
+
