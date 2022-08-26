@@ -1,6 +1,6 @@
 ### Hi there, I'm Amara Finbarrs but you can call me Amara.
 
-## I'm a software developer that specializes in Full-Stack Application
+## I'm a software developer that specializes in Full-Stack Web Applications
 - 👑 I'm currently on a journey to become a C#/.NET guru
 - ✍🏽 I'm currently building a Note Taking app with a major twist 🌪
 - 💻 2022 Goal: Land a Software Development role
