@@ -13,9 +13,4 @@ I am working in the Legal Innovation Lab Wales development team. We mostly use r
 
 ## My Stack so far...
 
-<img src="Images\html5-icon.png" alt="HTML5 logo" width="50" height="50" /> 
-<img src="Images\css.png" alt="CSS logo" width="50" height="50" /> 
-<img src="Images\JavaScript-logo.png" alt="JS logo" width="50" height="50" /> <img src="Images\c-logo-4.png" alt="C# logo" width="50" height="50" /> 
-<img src="Images\python-2.png" alt="Python logo" width="50" height="50" />
-<img src="Images\Rails.png" alt="C# logo" width="50" height="50" /> 
-<img src="Images\ruby.png" alt="Python logo" width="50" height="50" />
+<img src="Images\html5-icon.png" alt="HTML5 logo" width="50" height="50" /> <img src="Images\css.png" alt="CSS logo" width="50" height="50" /> <img src="Images\JavaScript-logo.png" alt="JS logo" width="50" height="50" /> <img src="Images\c-logo-4.png" alt="C# logo" width="50" height="50" /> <img src="Images\python-2.png" alt="Python logo" width="50" height="50" /> <img src="Images\Rails.png" alt="C# logo" width="50" height="50" /> <img src="Images\ruby.png" alt="Python logo" width="50" height="50" />
