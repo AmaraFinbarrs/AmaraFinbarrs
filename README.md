@@ -9,7 +9,7 @@
 
 ## My current role
 
-I am working in the Legal Innovation Lab Wales development team. We mostly use Rails to build proof of concepts for ideas that bridge the gap between the Legal sector and Technology.
+I am working in the Legal Innovation Lab Wales development team. We mostly use Rails to build proof of concepts web apps. These apps primarily address gaps in the LegalTech sector.
 
 ## My Stack so far...
 
