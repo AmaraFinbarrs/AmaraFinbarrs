@@ -3,13 +3,12 @@
 ## I'm a software developer that specializes in Full-Stack Web Applications
 
 - 👑 I'm currently on a journey to become a Ruby on Rails guru
-- ✍🏽 I'm currently building a productivity app called Prodact
-- 💻 2022 Goal: Land a Software Development role | I achieved this goal in July 2022. Thank God Most High!
-- ✨ Fun Fact: I love to write fictional stories that explore my creativity, faith, and life.
+- ✍🏽 I'm currently building projects to add to my portfolio
+- 💻 Fun fact: I landed my first software development role in July 2022; although I didn't start until November. Thank God Most High!
 
 ## My current role
 
-I am working in the Legal Innovation Lab Wales development team. We mostly use Rails to build proof of concepts web apps. These apps primarily address gaps in the LegalTech sector.
+I am working in the Legal Innovation Lab Wales development team. We primarily use Rails to build web apps that serve as a proof-of-concept. These apps primarily address gaps in the LegalTech sector.
 
 ## My Stack so far...
 
