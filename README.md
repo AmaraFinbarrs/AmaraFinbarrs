@@ -2,9 +2,9 @@
 
 ## I'm a software developer that specializes in Full-Stack Web Applications
 
-- 👑 I'm currently on a journey to become a Ruby on Rails guru
+- 👑 Language Agnostic
 - ✍🏽 I'm currently building projects to add to my portfolio
-- 💻 Fun fact: I landed my first software development role in July 2022; although I didn't start until November. Thank God Most High!
+- 💻 Fun fact: I landed my first software development role in July 2022; although I didn't start until November. I owe it all to God Most High!
 
 ## My current role
 
