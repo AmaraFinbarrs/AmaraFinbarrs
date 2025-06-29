@@ -1,14 +1,14 @@
 ### Hi there, I'm Amarachukwu Finbarrs-Ezema but you can call me Amara!
 
-## I'm a software developer that specializes in Full-Stack Web Applications
+## software developer that specializes in Full-Stack Web Applications
 
-- 👑 Language Agnostic
-- ✍🏽 I'm currently building projects to add to my portfolio
-- 💻 Fun fact: I landed my first software development role in July 2022; although I didn't start until November. I owe it all to God Most High!
+## Fun fact: 
+I landed my first software development role in July 2022; although I didn't start until November. I owe it all to God, Jesus and the Holy Spirit.
 
-## My current role
-
-I am working in the Legal Innovation Lab Wales development team. We primarily use Rails to build web apps that serve as a proof-of-concept. These apps primarily address gaps in the LegalTech sector.
+## Work Experience
+Company: Legal Innovation Lab Wales
+Address: Swansea University, Swansea. U.K.
+Duration: June 2022 - May 2025
 
 ## My Stack so far...
 
