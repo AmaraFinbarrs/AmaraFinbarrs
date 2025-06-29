@@ -1,6 +1,7 @@
-### Hi there, I'm Amarachukwu Finbarrs-Ezema but you can call me Amara!
-
-## Software developer specialising in crafting digital products using the best tool for the job.
+## About Me
+- Hi there, I'm Amarachukwu Finbarrs-Ezema but you can call me Amara!
+- I am Software developer specialising in crafting Christian digital products using the best tools for the job.
+- Currently building something I believe will shock the world and transform the Christian tech space. I pray the Lord ordains it.
 
 ## Fun fact: 
 I landed my first software development role in July 2022. I owe it all to God, Jesus and the Holy Spirit.
@@ -9,6 +10,7 @@ I landed my first software development role in July 2022. I owe it all to God, J
 - Company: Legal Innovation Lab Wales
 - Address: Swansea University, Swansea. U.K.
 - Duration: June 2022 - May 2025
+- Role: Senior Software Engineer
 
 ## My Stack so far...
 
