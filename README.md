@@ -1,6 +1,7 @@
 ## About Me
 - Hi there, I'm Amarachukwu Finbarrs-Ezema but you can call me Amara!
-- Founder, Engineer & Software Developer 
+- Founder, Engineer & Software Developer
+- Ruby on Rails & Hotwire Expert 
 
 ## Fun fact: 
 I landed my first software development role in July 2022. I owe it all to God, Jesus and the Holy Spirit.
